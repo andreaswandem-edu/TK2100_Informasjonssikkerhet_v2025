@@ -1,0 +1,1 @@
+# TK2100_Informasjonssikkerhet_v2025
