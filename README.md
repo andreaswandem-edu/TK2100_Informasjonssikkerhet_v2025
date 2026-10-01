@@ -6,7 +6,7 @@
 >
 > Karakter: **Bestått** (Bestått / Ikke bestått)
 
-## Om Eksamen
+## Om eksamen
 
 Individuell 24-timers hjemmeeksamen i Informasjonssikkerhet (TK2100) våren 2025. Eksamen besto av ti oppgaver om blant annet kryptering, skadevare, personvern og web- og nettverkssikkerhet, med både faglige drøftinger og praktiske demonstrasjoner av antivirus og sikkerhetssårbarheter.
 
